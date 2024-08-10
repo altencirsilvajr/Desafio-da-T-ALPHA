@@ -1,5 +1,4 @@
-![Logo do projeto](![image](https://github.com/user-attachments/assets/550ff127-a544-48fe-965f-e1208c059d8f))
-
+![Logo do projeto](https://experimenteapaz.com.br/wp-content/webp-express/webp-images/uploads/2017/03/DESAFIO--300x108.jpg.webp)
 
 # Desafio da T-ALPHA! 
 
