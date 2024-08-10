@@ -1,40 +1,47 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Logo do projeto](![image](https://github.com/user-attachments/assets/550ff127-a544-48fe-965f-e1208c059d8f))
 
-## Getting Started
 
-First, run the development server:
+# Desafio da T-ALPHA! 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+Seja bem vindo ao meu projeto.
+
+## 🔥 Introdução
+
+Cadastr-se e insira produtos de maneira dinâmica
+
+### ⚙️ Pré-requisitos
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```
+  
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+### 🔨 Guia de instalação
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+Etapas para instalar:
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```
+- git clone --
+- yarn install
+- yarn dev
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+```
 
-## Learn More
+## 📦 Tecnologias usadas:
 
-To learn more about Next.js, take a look at the following resources:
+* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+* https://github.com/Ileriayo/markdown-badges (Se você quiser colocar esse ícone legal em seus projetos)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 👷 Autores
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+* **Altencir Junior** - *Desenvolvedor de Software* - (https://github.com/altencirsilvajr)
 
-## Deploy on Vercel
+## 📄 Licença
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 💭 FAQ - Perguntas frequentes
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 💡 Expressões de gratidão
+
+* Um agradecimento publicamente.
+* Para suporte, mande um email para altencirsilvajr@gmail.com.
+* Link para o meu linkedin [Meu linkedin] (https://www.linkedin.com/in/altencir-junior-60410b1a7/)https://www.linkedin.com/in/altencir-junior-60410b1a7/)
