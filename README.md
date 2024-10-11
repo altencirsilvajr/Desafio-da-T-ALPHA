@@ -1,6 +1,6 @@
 ![Logo do projeto](https://experimenteapaz.com.br/wp-content/webp-express/webp-images/uploads/2017/03/DESAFIO--300x108.jpg.webp)
 
-# Desafio da T-ALPHA! 
+# Desafio! 
 
 Seja bem vindo ao meu projeto.
 
